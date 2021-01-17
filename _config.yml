@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiran Shen"
-  avatar           : "avatar.png"
+  avatar           : avatar.png
   bio              : "Professor, School of Software"
   location         : "Jinan, Shandong, China"
   employer         : "Shandong University"
