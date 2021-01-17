@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sat, 16 Jan 2021 23:27:17 at https://sites.google.com/site/shenyiran87
+(winhttrack https://sites.google.com/site/shenyiran87 -O "/Users/hong/Downloads/Yiran /Yiran Shen" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 9 links scanned, 8 files written (468364 bytes overall) [103680 bytes received at 10368 bytes/sec], 468431 bytes transferred using HTTP compression in 9 files, ratio 19%
+(No errors, 0 warnings, 0 messages)
